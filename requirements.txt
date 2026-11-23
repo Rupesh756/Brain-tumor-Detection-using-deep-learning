@@ -1,0 +1,12 @@
+
+torch
+monai==1.6.2
+nibabel
+numpy
+scipy
+matplotlib
+pandas
+streamlit
+plotly
+scikit-learn
+ipywidgets
