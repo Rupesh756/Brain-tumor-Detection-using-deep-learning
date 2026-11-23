@@ -26,3 +26,13 @@ outputs/
 *.log
 .streamlit/secrets.toml
 .DS_Store
+venv/
+dataset/
+sample/
+checkpoints/
+outputs/
+__pycache__/
+*.pyc
+*.nii
+*.nii.gz
+*.pth
