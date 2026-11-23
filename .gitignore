@@ -1,38 +1,22 @@
+# VS Code settings
+.vscode/
 
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
-*.pyd
-*.egg-info/
 
 # Virtual environment
 venv/
 .venv/
 
-# Dataset and MRI samples
+# Dataset and MRI files
 dataset/
 sample/
 *.nii
 *.nii.gz
 
-# Model checkpoints and generated outputs
+# Model checkpoints
 checkpoints/
 outputs/
 *.pth
 *.pt
-*.keras
-
-# Temporary files
-*.log
-.streamlit/secrets.toml
-.DS_Store
-venv/
-dataset/
-sample/
-checkpoints/
-outputs/
-__pycache__/
-*.pyc
-*.nii
-*.nii.gz
-*.pth
